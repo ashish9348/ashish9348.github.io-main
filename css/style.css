@@ -53,7 +53,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #006335e6;
+  color: #00000000;
   outline: none;
   text-decoration: none;
 }
